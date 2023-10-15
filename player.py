@@ -2,7 +2,7 @@ import math
 import random
 
 class Player:
-    def __init__(self, letter): # we'll initialize the class with the letter the player is going to represent
+    def __init__(self, letter): 
         # letter is x or o
         self.letter = letter
 
